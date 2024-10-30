@@ -1,0 +1,62 @@
+
+
+#text {
+	text-align: justify;
+}
+
+#profile {
+	width: 250px;
+	border-radius: 49%;
+	box-shadow: 5px 5px 3px rgb(179, 226, 167);
+}
+
+#ghibli {
+	width:  ;
+}
+
+h2 {
+color : rgb(179, 226, 167);
+
+}
+
+h1 {
+	font-weight: 60;
+	font-size: 50px;
+}
+
+body {
+	background-color: rgb(255, 225, 255);
+	letter-spacing: 2px;
+	font-family: Futura;
+	font-size: 20px;
+
+
+a:hover {
+	color : deeppink;
+}
+
+p {
+	text-justify: : center ;
+}
+
+div {
+	background-color: white;
+	margin: 30px ;
+	padding: 20px;
+	border : 1px solid black;
+	border-radius: 5px;
+	width: 700 px ;
+	text-align: center;
+}
+
+
+.container {
+	background-color: rgb(255, 225, 255);
+	border : none 
+}
+
+@media (max-width: 500px)
+	.container {
+		width: 400px;
+	}
+
